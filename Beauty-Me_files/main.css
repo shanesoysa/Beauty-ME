@@ -27,11 +27,11 @@ p {
 }
 
 a:hover, a:focus {
-  color: #008000;
+  color: #4c4a4a;
 }
 
 a {
-  color: #008000;
+  color: #4c4a4a;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -538,11 +538,11 @@ button:focus {
 }
 
 .bg-white .navbar-nav .nav-link:hover {
-  color: #008000 !important;
+  color: #d71010  !important;
 }
 
 .bg-white .navbar-nav .active {
-  color: #008000 !important;
+  color: #d71010  !important;
 }
 
 .close-button {
@@ -565,7 +565,7 @@ button:focus {
   left: 0;
   width: 0;
   height: 2px;
-  background: #008000;
+  background: #d71010  ;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   transition: 0.3s;
@@ -591,7 +591,7 @@ button:focus {
 .navbar-expand-md .navbar-nav .nav-link.active:before,
 .navbar-expand-md .navbar-nav .nav-link.open,
 .navbar-expand-md .navbar-nav .open > .nav-link {
-  color: #008000;
+  color: #4c4a4a;
 }
 
 .navbar-expand-md .navbar-toggler {
@@ -627,8 +627,8 @@ button:focus {
 }
 
 .navbar-expand-md .navbar-toggler:active {
-  border: 1px solid #008000;
-  color: #008000;
+  border: 1px solid #4c4a4a;
+  color: #4c4a4a;
 }
 
 /* ==========================================================================
@@ -1084,8 +1084,8 @@ button:focus {
 }
 
 .controls .active {
-  color: #008000 !important;
-  border-color: #008000;
+  color: #4c4a4a !important;
+  border-color: #4c4a4a;
   background: transparent;
 }
 
@@ -1571,7 +1571,7 @@ button:focus {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #008000;
+  background: #4c4a4a;
 }
 
 /* ==========================================================================
