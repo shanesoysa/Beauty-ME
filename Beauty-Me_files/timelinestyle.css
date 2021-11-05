@@ -17,7 +17,7 @@
   color: #fff;
   overflow: hidden;
     background-size: cover;
-    background: #5E9A43 no-repeat center center;
+    background: #696c67  no-repeat center center;
 }
 .timeline .swiper-slide::after {
   content: "";
@@ -113,7 +113,7 @@
   bottom: 10%;
   height: 80%;
   width: 3px;
-  background-color: #ADDF93;
+  background-color: #aeb7aa;
 }
 .timeline .swiper-pagination-bullet {
   width: auto;
@@ -121,7 +121,7 @@
   text-align: left;
   opacity: 1;
   background: transparent;
-  color: #ADDF93;
+  color: #959993;
   margin: 15px 0 !important;
   position: relative;
 }
